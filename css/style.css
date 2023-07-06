@@ -4,6 +4,12 @@
 	padding: 0;
 }
 
+/*mozilla padding removal*/
+*::-moz-focus-inner,p::-moz-focus-inner {
+    padding: 0;
+    border: 0
+}
+
 div.page-bg {
 	background-attachment: fixed;
 	background-image: url('../images/bg.png');
