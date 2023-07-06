@@ -1,3 +1,3 @@
 # pineappleEA.github.io
 
-A website for a Discord server
+A website for a discord server
